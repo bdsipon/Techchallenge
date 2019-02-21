@@ -8,6 +8,7 @@ namespace BattleshipStateTracker.Logic
     {
         public String Name { get; set; }
         public int Win { get; set; }
+        public Board GetBoard;
        
     }
 }
